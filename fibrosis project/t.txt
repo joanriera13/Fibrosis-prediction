@@ -1,0 +1,12 @@
+tobaco (actiu 1/ no 0/ ex 2)
+age at diagnosis (int)
+pathology pattern 
+final diagnosis 
+familial vs esporadic
+binary diagnosis
+comorbidities
+genetic mutation studied in patient (yes 1/ no 0)
+radiological pattern test (4 options)
+
+% FVC at diagnosis(+0)
+% DLCO at diagnosis
